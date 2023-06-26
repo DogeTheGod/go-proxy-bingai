@@ -329,7 +329,7 @@ _w['_sydConvTranslation'] = {
   welcomeContainerUseTerms: '使用条款',
   welcomeMessageItemContent1: '我可以喂我的树懒什么吃的，但是要均衡营养?',
   welcomeMessageItemContent2: '请问树懒有多少毛?',
-  welcomeMessageItemContent3: '请以树懒国王为主题写一个作文.',
+  welcomeMessageItemContent3: '请以树懒国王为主题写一个作文!',
   welcomeMessageItemTitle1: '🧐 提出复杂问题',
   welcomeMessageItemTitle2: '🙌获取更好的答案',
   welcomeMessageItemTitle3: '🎨 获得创意灵感',
